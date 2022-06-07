@@ -12,3 +12,4 @@
 
 ## Coding assignments
 - **Convolutional model, Step by step**: building a convolutional neural network from scratch
+- **Convolution Model Application**: building a mood classifier and a sign language digits identifier
