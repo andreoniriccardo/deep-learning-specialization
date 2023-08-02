@@ -129,3 +129,19 @@ This course allowed me to dive into CNNs and their most popular applications. I 
 - **Art Generation with Neural Style Transfer**: merging the content and the style of two images using NST
 
 ---
+## 05 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+
+### How did this course enhance my Data Science skills?
+This course allowed me to learn about RNN and language models. I learnt how to perform tasks like text classification, sentiment analysis and text generation.
+
+### What does this course deal?
+- Recurrent Neural Networks
+	- **Language models** and **text generation**
+	- **GRU**
+	- **LSTM**
+	- Deep RNN
+
+### Coding assignments
+- **RNN from scratch**: building a recurrent neural network from scratch
+- **Character-Level Language Modeling**: charachter level text generation
+- **Jazz Improvisation with LSTM**: music generation with LSTM
