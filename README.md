@@ -92,7 +92,7 @@ This GitHub repository contains all the coding material that I wrote and studied
 - **TensorFlow Introduction**: building a neural network with low level TensorFlow implementation
 
 ---
-## 04 - Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+## 04 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 
 ### How did this course enhance my Data Science skills?
 This course allowed me to dive into CNNs and their most popular applications. I managed to learn how they work and how they perform complex tasks like Object Localization, Semantic Segmentation, Face Recognition and Neural Style Transfer.
